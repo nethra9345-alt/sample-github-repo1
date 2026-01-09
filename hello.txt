@@ -1,0 +1,4 @@
+Hello GitHub!
+
+This is my first sample commit.
+Learning how to create repositories and commit files.
