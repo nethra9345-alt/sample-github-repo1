@@ -2,3 +2,15 @@ Hello GitHub!
 
 This is my first sample commit.
 Learning how to create repositories and commit files.
+
+About this file:
+- This file is created as part of learning GitHub basics.
+- It demonstrates how to add a new file to a repository.
+- It also shows how to write a commit message and description.
+
+What I learned:
+1. How to create a GitHub repository
+2. How to add and commit a file
+3. How version control works at a basic level
+
+This repository is created for practice and submission purposes.
